@@ -7,5 +7,5 @@ import streamlit as st
 #     st.session_state.a += 1
 # st.write(st.session_state.a)
 
-st.title("林老师是个大美女")
+st.title("林老师是大美女")
 st.image("./lily.jfif", width=2400)
