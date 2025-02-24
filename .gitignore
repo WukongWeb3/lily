@@ -1,0 +1,8 @@
+vscode_start.bat
+yarn.lock
+.env
+
+.vscode/
+node_modules/
+dist/
+server/.idea
